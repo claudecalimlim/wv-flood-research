@@ -74,5 +74,7 @@ The notebooks were built in Google Colab.
 ## Author
 
 **Claude L. Calimlim**
+
 Master of Information Technology, West Visayas State University
+
 📧 [codebritain@gmail.com](mailto:codebritain@gmail.com) · 🌐 [claudecalimlim.vercel.app](https://claudecalimlim.vercel.app)
